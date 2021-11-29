@@ -6,6 +6,12 @@ Here is a unfinished side project made with HTML5, CSS3 and JavaScript. That's p
 
 Basically this project is a base for the site of my moms engineering company. I started it based in another site of free copyrigth and know i still working in it. 
 
+## 📝 Technologies
+
+- [HTML5](https://pt.wikipedia.org/wiki/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://www.javascript.com/)
+
 ## ⚠️ Atention
 
 This project isn't finished.
