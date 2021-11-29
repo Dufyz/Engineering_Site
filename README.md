@@ -14,4 +14,4 @@ Basically this project is a base for the site of my moms engineering company. I 
 
 ## ⚠️ Atention
 
-This project isn't finished.
+This project don't have the propouse of be seriously, i am just trying some things for my knowledged. !This project isn't finished yet!
